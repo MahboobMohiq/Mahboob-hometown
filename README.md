@@ -29,4 +29,4 @@ A *responsive webpage project* showcasing the beauty and history of Herat City, 
 
 1.⁠ ⁠*Clone the repository*:  
    ```bash
-   git clone https://github.com/your-username/herat-city-webpage.git
+   git clone https://github.com/MahboobMohiq/Mahboob-hometown.git
